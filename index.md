@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my personal site!
+
+I'm interested in studying **computer science**.
+I would like to learn more about **artificial intelligence** and **machine learning**.
 
 You can use the [editor on GitHub](https://github.com/k8xu/k8xu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
