@@ -1,5 +1,8 @@
 ## Welcome to my personal site!
 
+<button class="about">About Me</button>
+<button class="contact">Contact</button>
+
 I'm interested in studying **computer science**.
 I would like to learn more about **artificial intelligence** and **machine learning**.
 
