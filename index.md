@@ -1,7 +1,9 @@
 ## Welcome to my personal site!
 
-<button class="about">About Me</button>
-<button class="contact">Contact</button>
+<link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css"/>
+
+<button class="button is-rounded" id="about">About Me</button>
+<button class="button is-rounded" id="contact">Contact</button>
 
 I'm interested in studying **computer science**.
 I would like to learn more about **artificial intelligence** and **machine learning**.
