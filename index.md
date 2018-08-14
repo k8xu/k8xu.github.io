@@ -1,45 +1,15 @@
-## Welcome to my personal site!
+## Hello!
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css"/>
+I'm a freshman at the Massachusetts Institute of Technology studying Computer Science with interests in data science, machine learning, math, economics.
 
-<button class="button is-rounded" id="about">About Me</button>
-<button class="button is-rounded" id="contact">Contact</button>
+### Relevant Coursework
+**Fall 2018 (expected)**
 
-I'm interested in studying **computer science**.
-I would like to learn more about **artificial intelligence** and **machine learning**.
+6.0001 Intro to Computer Science Programming in Python
 
-You can use the [editor on GitHub](https://github.com/k8xu/k8xu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+6.042 Math for Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+18.022 Multivariable Calculus
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k8xu/k8xu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me
+[LinkedIn](https://www.linkedin.com/in/kateyxu/)
