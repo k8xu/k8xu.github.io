@@ -1,24 +1,30 @@
-## Welcome to my personal site!
+## Hello!
 
-<link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.css"/>
+I'm a freshman at the Massachusetts Institute of Technology studying Computer Science and Engineering with interests in data science, machine learning, mathematics, and economics. I also enjoy sabre fencing, STEM outreach, and playing the piano.
 
-<button class="button is-rounded" id="about">About Me</button>
-<button class="button is-rounded" id="contact">Contact</button>
+I have experience coding in Python, and I am seeking summer 2019 internships. If you would like a copy of my resume, please feel free to contact me!
 
-I'm interested in studying **computer science**.
-I would like to learn more about **artificial intelligence** and **machine learning**.
+### Relevant Coursework
+**High School**
 
-You can use the [editor on GitHub](https://github.com/k8xu/k8xu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Linear Algebra (A+)  
+AP Computer Science (5/5)  
+AP Statistics (5/5)  
+AP Calculus BC (5/5)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Fall 2018 (expected)**
 
-### Markdown
+6.0001 Intro to Computer Science Programming in Python  
+6.042 Math for Computer Science  
+18.022 Multivariable Calculus  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Spring 2019 (expected)**
 
-```markdown
-Syntax highlighted code block
+6.006 Intro to Algorithms  
+6.009 Fundamentals of Programming  
+6.01 Intro to EECS via Robotics  
 
+<<<<<<< HEAD
 # Header 1
 ## Header 2
 ### Header 3
@@ -39,3 +45,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k8xu/k8xu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+=======
+### Contact Me
+[LinkedIn](https://www.linkedin.com/in/kateyxu/)
+>>>>>>> 694fc60fde898ffc856e6f4d7fa3fdd2d7efc0ae
