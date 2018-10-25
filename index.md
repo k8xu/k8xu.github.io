@@ -24,12 +24,12 @@ AP Calculus BC
 6.036 Machine Learning
 
 ### Activities
-1. Varsity Women's Fencing Team - Sabre Fencer
-2. MIT Digital Humanities Lab - Undergraduate Researcher
-3. United Planet - Code for Good Technical Consultant
-4. MIT Asian Dance Team - Hip-Hop Dancer
-5. Society of Women Engineers - National Member
-6. Rewriting the Code - Fellow
+Varsity Women's Fencing Team - Sabre Fencer
+MIT Digital Humanities Lab - Undergraduate Researcher
+United Planet - Code for Good Technical Consultant
+MIT Asian Dance Team - Hip-Hop Dancer
+Society of Women Engineers - National Member
+Rewriting the Code - Fellow
 
 ### Contact Me
 [LinkedIn](https://www.linkedin.com/in/kateyxu/)
