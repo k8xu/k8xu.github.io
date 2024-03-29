@@ -51,7 +51,7 @@
               <td style="padding:20px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
                 <p>
-                    I'm broadly interested in computer vision, generative AI, and scene understanding.
+                    I'm interested in computer vision, generative AI, multimodal learning, and scene understanding.
                 </p>
               </td>
             </tr>
@@ -59,6 +59,45 @@
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
+    <tr onmouseout="gendet_stop()" onmouseover="gendet_start()">
+        <td style="padding:20px;width:25%;vertical-align:middle">
+            <div class="one">
+            <div class="two" id='gendet_image'><video  width=100% muted autoplay loop>
+            <source src="images/gendet.png" type="video/mp4">
+            Your browser does not support the video tag.
+            </video></div>
+            <img src='images/gendet.png' width=100%>
+            </div>
+            <script type="text/javascript">
+            function gendet_start() {
+                document.getElementById('gendet_image').style.opacity = "1";
+            }
+    
+            function gendet_stop() {
+                document.getElementById('gendet_image').style.opacity = "0";
+            }
+            gendet_stop()
+            </script>
+        </td>
+        <td style="padding:20px;width:75%;vertical-align:middle">
+            <a href="https://k8xu.github.io/ImageAttribution">
+            <span class="papertitle">Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond</span>
+            </a>
+            <br>
+            <strong>Katherine Xu</strong>,
+            <a href="https://owenzlz.github.io/">Lingzhi Zhang</a>,
+            <a href="https://www.cis.upenn.edu/~jshi/">Jianbo Shi</a>
+            <br>
+            <em>arXiv</em>, 2024
+            <br>
+            <a href="https://arxiv.org/pdf/2403.19653.pdf">paper</a>
+            /
+            <a href="https://github.com/k8xu/ImageAttribution">code</a>
+            <p></p>
+            <p></p>
+        </td>
+    </tr>
+ 
 
     <tr onmouseout="amodal_stop()" onmouseover="amodal_start()" bgcolor="#ffffd0">
       <td style="padding:20px;width:25%;vertical-align:middle">
