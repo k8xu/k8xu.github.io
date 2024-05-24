@@ -23,14 +23,15 @@
                     Katherine Xu
                 </p>
                 <p>
-                    I am a second-year CS PhD student at the University of Pennsylvania, affiliated with the <a href="https://www.grasp.upenn.edu/">GRASP Lab</a>.
-                    I'm grateful to be advised by Prof. <a href="https://www.cis.upenn.edu/~jshi/">Jianbo Shi</a>.
+                    I am a second-year PhD student at the University of Pennsylvania
+                    advised by Prof. <a href="https://www.cis.upenn.edu/~jshi/">Jianbo Shi</a>.
+                    I'm interested in computer vision and deep learning.
                 </p>
                 <p>
                     I received my bachelor's and master's in Computer Science at MIT,
                     where I collaborated with research groups at MIT CSAIL,
                     MIT Quest for Intelligence, and MIT Environmental Solutions Initiative.
-                    I've also had the pleasure to intern at Meta and the Honda Research Institute.
+                    I've had the pleasure to intern at Meta and Honda Research Institute.
                 </p>
                 <p style="text-align:center">
                   <a href="mailto:katexu@seas.upenn.edu">Email</a> &nbsp;/&nbsp;
@@ -50,43 +51,48 @@
               <tr>
               <td style="padding:20px;width:100%;vertical-align:middle">
                 <h2>Research</h2>
-                <p>
-                    I'm interested in computer vision, generative AI, multimodal learning, and scene understanding.
-                </p>
               </td>
             </tr>
           </tbody></table>
           <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
 
-    <tr onmouseout="gendet_stop()" onmouseover="gendet_start()">
-        <td style="padding:20px;width:25%;vertical-align:middle">
-            <div class="one">
-            <div class="two" id='gendet_image'><video  width=100% muted autoplay loop>
-            <source src="images/gendet.png" type="video/mp4">
-            Your browser does not support the video tag.
-            </video></div>
-            <img src='images/gendet.png' width=100%>
-            </div>
-            <script type="text/javascript">
-            function gendet_start() {
-                document.getElementById('gendet_image').style.opacity = "1";
-            }
-    
-            function gendet_stop() {
-                document.getElementById('gendet_image').style.opacity = "0";
-            }
-            gendet_stop()
-            </script>
+    <tr>
+        <td style="padding:20px;width:35%;vertical-align:middle">
+            <img src='images/secret_seeds.png' width=100%>
         </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
+        <td style="padding:10px;width:65%;vertical-align:middle">
+            <a href="https://k8xu.github.io/SecretSeeds">
+            <span class="papertitle">Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models</span>
+            </a>
+            <br>
+            <strong>Katherine Xu</strong>,
+            Lingzhi Zhang,
+            Jianbo Shi
+            <br>
+            <em>arXiv</em>, 2024
+            <br>
+            <a href="https://arxiv.org/pdf/2405.14828">paper</a>
+            /
+            <a href="https://github.com/k8xu/SecretSeeds">code</a>
+            <p></p>
+            <p></p>
+        </td>
+    </tr>
+
+
+    <tr>
+        <td style="padding:20px;width:35%;vertical-align:middle">
+            <img src='images/gendet.png' width=100%>
+        </td>
+        <td style="padding:10px;width:65%;vertical-align:middle">
             <a href="https://k8xu.github.io/ImageAttribution">
             <span class="papertitle">Detecting Image Attribution for Text-to-Image Diffusion Models in RGB and Beyond</span>
             </a>
             <br>
             <strong>Katherine Xu</strong>,
-            <a href="https://owenzlz.github.io/">Lingzhi Zhang</a>,
-            <a href="https://www.cis.upenn.edu/~jshi/">Jianbo Shi</a>
+            Lingzhi Zhang,
+            Jianbo Shi
             <br>
             <em>arXiv</em>, 2024
             <br>
@@ -99,36 +105,22 @@
     </tr>
  
 
-    <tr onmouseout="amodal_stop()" onmouseover="amodal_start()" bgcolor="#ffffd0">
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='amodal_image'><video  width=100% muted autoplay loop>
-          <source src="images/amodal.gif" type="video/mp4">
-          Your browser does not support the video tag.
-          </video></div>
-          <img src='images/amodal.gif' width=100%>
-        </div>
-        <script type="text/javascript">
-          function amodal_start() {
-            document.getElementById('amodal_image').style.opacity = "1";
-          }
-
-          function amodal_stop() {
-            document.getElementById('amodal_image').style.opacity = "0";
-          }
-          amodal_stop()
-        </script>
+    <tr bgcolor="#ffffd0">
+      <td style="padding:20px;width:35%;vertical-align:middle">
+        <img src='images/amodal.gif' width=100%>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:10px;width:65%;vertical-align:middle">
         <a href="https://k8xu.github.io/amodal">
           <span class="papertitle">Amodal Completion via Progressive Mixed Context Diffusion</span>
         </a>
         <br>
 		<strong>Katherine Xu</strong>,
-		<a href="https://owenzlz.github.io/">Lingzhi Zhang</a>,
-        <a href="https://www.cis.upenn.edu/~jshi/">Jianbo Shi</a>
+        Lingzhi Zhang,
+        Jianbo Shi
         <br>
-        <em>CVPR</em>, 2024 &nbsp <font color="red"><strong>(Highlight - 2.8% of submissions, 11.9% of accepted papers)</strong></font>
+        <em>Computer Vision and Pattern Recognition Conference (CVPR)</em>, 2024
+        <br>
+        <font color="red"><strong>Highlight - 2.8% of submissions, 11.9% of accepted papers</strong></font>
         <br>
         <a href="https://arxiv.org/pdf/2312.15540.pdf">paper</a>
         /
@@ -144,33 +136,17 @@
     </tr>
 	
 
-    <tr onmouseout="chem_stop()" onmouseover="chem_start()">
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <div class="one">
-          <div class="two" id='chem_image'><video  width=100% muted autoplay loop>
-          <source src="images/chem_insights.png" type="video/mp4">
-          Your browser does not support the video tag.
-          </video></div>
-          <img src='images/chem_insights.png' width=100%>
-        </div>
-        <script type="text/javascript">
-          function chem_start() {
-            document.getElementById('chem_image').style.opacity = "1";
-          }
-
-          function chem_stop() {
-            document.getElementById('chem_image').style.opacity = "0";
-          }
-          chem_stop()
-        </script>
+    <tr>
+      <td style="padding:20px;width:35%;vertical-align:middle">
+        <img src='images/chem_insights.png' width=100%>
       </td>
-      <td style="padding:20px;width:75%;vertical-align:middle">
+      <td style="padding:10px;width:65%;vertical-align:middle">
         <a href="https://openreview.net/pdf?id=hNWJbH2lVW">
           <span class="papertitle">Chemistry Insights for Large Pretrained Graph Neural Networks</span>
         </a>
         <br>
 		<strong>Katherine Xu</strong>,
-        <a href="https://scholar.google.com/citations?user=L5jDQS8AAAAJ&hl=en">Janice Lan</a>
+        Janice Lan
         <br>
         <em>NeurIPS AI for Science Workshop</em>, 2022
         <br>
@@ -178,92 +154,31 @@
         <p></p>
         <p>
             Analyzing neural networks trained on the <a href="https://opencatalystproject.org/">Open Catalyst</a> dataset
-            by comparing their predictions with chemical intuition. Work done during an internship at Meta AI.
+            by comparing their predictions with chemical intuition. Work done during an internship at Meta.
         </p>
       </td>
     </tr>
 	
 
-    <tr onmouseout="liver_stop()" onmouseover="liver_start()">
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div class="one">
-            <div class="two" id='liver_image'><video  width=100% muted autoplay loop>
-            <source src="images/liver_segmentation.png" type="video/mp4">
-            Your browser does not support the video tag.
-            </video></div>
+    <tr>
+        <td style="padding:20px;width:35%;vertical-align:middle">
             <img src='images/liver_segmentation.png' width=100%>
-          </div>
-          <script type="text/javascript">
-            function liver_start() {
-              document.getElementById('liver_image').style.opacity = "1";
-            }
-  
-            function liver_stop() {
-              document.getElementById('liver_image').style.opacity = "0";
-            }
-            liver_stop()
-          </script>
         </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
+        <td style="padding:10px;width:65%;vertical-align:middle">
           <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9355111/pdf/txd-8-e1361.pdf">
             <span class="papertitle">A Novel Digital Algorithm for Identifying Liver Steatosis Using Smartphone-Captured Images</span>
           </a>
           <br>
-          <strong>Katherine Xu</strong>*, Siavash Raigani*, A. Shih, S. G. Baptista, I. Rosales, N. M. Parry, S. G. Shroff, J. Misdraji, K. Uygun, H. Yeh, Katherine Fairchild, Leigh Anne Dageforde
+          <strong>Katherine Xu</strong>*, Siavash Raigani*, ..., Katherine Fairchild, Leigh Anne Dageforde
           <br>
           <em>Transplantation Direct</em>, 2022
           <br>
           <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9355111/pdf/txd-8-e1361.pdf">paper</a>
           /
           <a href="https://github.com/mit-quest/mgh-liver-segmentation">code</a>
-          <p></p>
-          <p>
-              Segmenting and quantifying liver steatosis using computer vision and image processing.
-          </p>
         </td>
       </tr>
 
-
-    <tr onmouseout="bron_stop()" onmouseover="bron_start()">
-        <td style="padding:20px;width:25%;vertical-align:middle">
-          <div class="one">
-            <div class="two" id='bron_image'><video  width=100% muted autoplay loop>
-            <source src="images/bron_graph.png" type="video/mp4">
-            Your browser does not support the video tag.
-            </video></div>
-            <img src='images/bron_graph.png' width=100%>
-          </div>
-          <script type="text/javascript">
-            function bron_start() {
-              document.getElementById('bron_image').style.opacity = "1";
-            }
-  
-            function bron_stop() {
-              document.getElementById('bron_image').style.opacity = "0";
-            }
-            bron_stop()
-          </script>
-        </td>
-        <td style="padding:20px;width:75%;vertical-align:middle">
-          <a href="https://arxiv.org/pdf/2010.00533.pdf">
-            <span class="papertitle">Linking Threat Tactics, Techniques, and Patterns with Defensive Weaknesses, Vulnerabilities and Affected Platform Configurations for Cyber Hunting</span>
-          </a>
-          <br>
-          Erik Hemberg, Jonathan Kelly, Michal Shlapentokh-Rothman, Bryn Reinstadler,<br>
-          <strong>Katherine Xu</strong>, Nick Rutar, Una-May O'Reilly
-          <br>
-          <em>arXiv</em>, 2021
-          <br>
-          <a href="https://arxiv.org/pdf/2010.00533.pdf">paper</a>
-          /
-          <a href="http://bron.alfa.csail.mit.edu/info.html">project page</a>
-          /
-          <a href="https://github.com/ALFA-group/BRON">code</a>
-          <p></p>
-          <p>
-          </p>
-        </td>
-      </tr>
 
           </tbody></table>
 
