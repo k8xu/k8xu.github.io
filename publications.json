@@ -1,0 +1,173 @@
+{
+  "publications": [
+    {
+      "title": "Vibe Spaces for Creatively Connecting and Expressing Visual Concepts",
+      "authors": [
+        "Huzheng Yang",
+        "Katherine Xu",
+        "Andrew Lu",
+        "Michael D. Grossberg",
+        "Yutong Bai",
+        "Jianbo Shi"
+      ],
+      "venue": "Preprint",
+      "thumbnail": "images/thumbs/vibe_blending.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "#",
+        "code": "#",
+        "project": "#"
+      }
+    },
+    {
+      "title": "SAM 3: Segment Anything with Concepts",
+      "authors": [
+        "Nicolas Carion*",
+        "Laura Gustafson*",
+        "Yuan-Ting Hu*",
+        "Shoubhik Debnath*",
+        "Ronghang Hu*",
+        "Didac Suris*",
+        "Chaitanya Ryali*",
+        "Kalyan Vasudev Alwala*",
+        "Haitham Khedr*",
+        "Andrew Huang",
+        "Jie Lei",
+        "Tengyu Ma",
+        "Baishan Guo",
+        "Arpit Kalla",
+        "Markus Marks",
+        "Joseph Greer",
+        "Meng Wang",
+        "Peize Sun",
+        "Roman Rädle",
+        "Triantafyllos Afouras",
+        "Effrosyni Mavroudi",
+        "Katherine Xu○",
+        "Tsung-Han Wu○",
+        "Yu Zhou○",
+        "Liliane Momeni○",
+        "Rishi Hazra○",
+        "Shuangrui Ding○",
+        "Sagar Vaze○",
+        "Francois Porcher○",
+        "Feng Li○",
+        "Siyuan Li○",
+        "Aishwarya Kamath○",
+        "Ho Kei Cheng○",
+        "Piotr Dollár†",
+        "Nikhila Ravi†",
+        "Kate Saenko†",
+        "Pengchuan Zhang†",
+        "Christoph Feichtenhofer†"
+      ],
+      "venue": "Preprint",
+      "thumbnail": "images/thumbs/sam3.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/",
+        "code": "https://github.com/facebookresearch/sam3",
+        "project": "https://ai.meta.com/sam3/"
+      }
+    },
+    {
+      "title": "Amodal Completion via Progressive Mixed Context Diffusion",
+      "authors": [
+        "Katherine Xu",
+        "Lingzhi Zhang",
+        "Jianbo Shi"
+      ],
+      "venue": "CVPR 2024",
+      "thumbnail": "images/thumbs/amodal.gif",
+      "selected": 1,
+      "award": "Highlight Paper",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2312.15540.pdf",
+        "code": "https://github.com/k8xu/amodal",
+        "project": "https://k8xu.github.io/amodal"
+      }
+    },
+    {
+      "title": "Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models",
+      "authors": [
+        "Katherine Xu",
+        "Lingzhi Zhang",
+        "Jianbo Shi"
+      ],
+      "venue": "WACV 2025",
+      "thumbnail": "images/thumbs/secret_seeds.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2405.14828",
+        "code": "https://github.com/k8xu/SecretSeeds"
+      }
+    },
+    {
+      "title": "Detecting Origin Attribution for Text-to-Image Diffusion Models in RGB and Beyond",
+      "authors": [
+        "Katherine Xu",
+        "Lingzhi Zhang",
+        "Jianbo Shi"
+      ],
+      "venue": "WACV 2025",
+      "thumbnail": "images/thumbs/gendet.png",
+      "selected": 1,
+      "award": "",
+      "links": {
+        "pdf": "https://arxiv.org/pdf/2403.19653.pdf",
+        "code": "https://github.com/k8xu/ImageAttribution"
+      }
+    },
+    {
+      "title": "CLIM-SEG: A Generalizable Segmentation Model for Heat and Flood Risk Mapping",
+      "authors": [
+        "Anushka Ray*",
+        "Katherine Xu*",
+        "Norhan Bayomi",
+        "John E. Fernandez"
+      ],
+      "venue": "Climate Risk Management 2024",
+      "thumbnail": "images/thumbs/clim_seg.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.sciencedirect.com/science/article/pii/S2212096324000718"
+      }
+    },
+    {
+      "title": "Chemistry Insights for Large Pretrained Graph Neural Networks",
+      "authors": [
+        "Katherine Xu",
+        "Janice Lan"
+      ],
+      "venue": "NeurIPS AI for Science 2022",
+      "thumbnail": "images/thumbs/chem_insights.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://openreview.net/pdf?id=hNWJbH2lVW"
+      }
+    },
+    {
+      "title": "A Novel Digital Algorithm for Identifying Liver Steatosis Using Smartphone-Captured Images",
+      "authors": [
+        "Katherine Xu*",
+        "Siavash Raigani*",
+        "...",
+        "Katherine Fairchild†",
+        "Leigh Anne Dageforde†"
+      ],
+      "venue": "Transplantation Direct 2022",
+      "thumbnail": "images/thumbs/liver_segmentation.png",
+      "selected": 0,
+      "award": "",
+      "links": {
+        "pdf": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9355111/pdf/txd-8-e1361.pdf",
+        "code": "https://github.com/mit-quest/mgh-liver-segmentation"
+      }
+    }
+  ]
+}
