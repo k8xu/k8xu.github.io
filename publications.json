@@ -17,7 +17,8 @@
       "links": {
         "pdf": "#",
         "code": "#",
-        "project": "#"
+        "project": "https://huzeyann.github.io/VibeSpace-webpage/",
+        "demo": "https://huggingface.co/spaces/huzey/VibeSpace"
       }
     },
     {
@@ -82,7 +83,7 @@
       "venue": "CVPR 2024",
       "thumbnail": "images/thumbs/amodal.gif",
       "selected": 1,
-      "award": "Highlight Paper",
+      "award": "Highlight Paper (2.8% of submissions)",
       "links": {
         "pdf": "https://arxiv.org/pdf/2312.15540.pdf",
         "code": "https://github.com/k8xu/amodal",

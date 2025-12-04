@@ -165,6 +165,13 @@ function createPublicationElement(publication) {
       links.appendChild(projectLink);
     }
     
+    if (publication.links.demo) {
+      const demoLink = document.createElement('a');
+      demoLink.href = publication.links.demo;
+      demoLink.textContent = '[Demo]';
+      links.appendChild(demoLink);
+    }
+
     content.appendChild(links);
   }
   
