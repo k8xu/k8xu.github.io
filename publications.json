@@ -15,8 +15,8 @@
       "selected": 1,
       "award": "",
       "links": {
-        "pdf": "#",
-        "code": "#",
+        "pdf": "https://arxiv.org/pdf/2512.14884",
+        "code": "https://github.com/huzeyann/VibeSpace",
         "project": "https://huzeyann.github.io/VibeSpace-webpage/",
         "demo": "https://huggingface.co/spaces/huzey/VibeSpace"
       }
