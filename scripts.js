@@ -138,7 +138,15 @@ function createPublicationElement(publication) {
   }
   
   content.appendChild(venueContainer);
-  
+
+  // Add contribution note if present
+  if (publication.contribution) {
+    const contribution = document.createElement('div');
+    contribution.className = 'pub-contribution';
+    contribution.textContent = publication.contribution;
+    content.appendChild(contribution);
+  }
+
   // Add links if they exist
   if (publication.links) {
     const links = document.createElement('div');

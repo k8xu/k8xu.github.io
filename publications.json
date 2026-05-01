@@ -67,6 +67,7 @@
       "thumbnail": "images/thumbs/sam3.png",
       "selected": 1,
       "award": "",
+      "contribution": "My contribution: evaluating model and human performance on visual grounding.",
       "links": {
         "pdf": "https://ai.meta.com/research/publications/sam-3-segment-anything-with-concepts/",
         "code": "https://github.com/facebookresearch/sam3",
